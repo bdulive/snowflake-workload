@@ -1,3 +1,6 @@
+# This script create a demo database and table in snowflake and run some workload
+# Requirements: faker snowflake-connector-python
+
 import json
 import random
 from faker import Faker
